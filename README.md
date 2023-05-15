@@ -2,7 +2,6 @@
 
 This workshop uses similar code to the Week8 workshop, but now you will be integrating tests into the framework.
 Make sure you follow the instructions for Week 8 (below this) to get the initial packages installed (If you completed the Week 8 task then just follow the next steps).
-Test
 
 ## WEEK 10 INSTRUCTIONS - follow these after you have installed the packages for the Week 8 task (see further below).
 
