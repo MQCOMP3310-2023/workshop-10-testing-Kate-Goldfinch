@@ -1,5 +1,7 @@
 # COMP3310 Week 10
 
+Test
+
 This workshop uses similar code to the Week8 workshop, but now you will be integrating tests into the framework.
 Make sure you follow the instructions for Week 8 (below this) to get the initial packages installed (If you completed the Week 8 task then just follow the next steps).
 
